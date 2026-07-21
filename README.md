@@ -146,7 +146,7 @@ Example:
 ```markdown
 ## Monthly Sales Trend
 
-monthly_sales.png
+![Monthly Sales](monthly_sales.png)
 
 ## Revenue by Branch
 
