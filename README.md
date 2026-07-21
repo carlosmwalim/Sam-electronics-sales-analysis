@@ -146,15 +146,15 @@ Example:
 ```markdown
 ## Monthly Sales Trend
 
-![Monthly Sales](images/monthly_sales.png)
+![Monthly Sales](monthly_sales.png)
 
 ## Revenue by Branch
 
-![Branch Sales](images/branch_sales.png)
+![Branch Sales](branch_sales.png)
 
 ## Top Products
 
-![Top Products](images/top_products.png)
+![Top Products](top_products.png)
 ```
 
 ---
